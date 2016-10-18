@@ -8,15 +8,23 @@ header {
     list-style: none; }
 
 li.octocat {
-  border: 1px solid #233d29;
-  width: 200px; }
+  border: 1px solid #a39d9d;
+  width: 300px;
+  margin-bottom: 50px; }
   li.octocat .cats {
     width: 75%; }
 
-.author {
-  width: 20%; }
-
 ul {
   list-style: none; }
+
+.octonumber {
+  float: left;
+  margin: 5px 0;
+  color: #dadada; }
+
+cite {
+  float: right; }
+  cite .author {
+    width: 30px; }
 
 /*# sourceMappingURL=styles.css.map */
