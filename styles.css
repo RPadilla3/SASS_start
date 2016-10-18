@@ -1,0 +1,22 @@
+header {
+  background-color: #e5e8eb;
+  width: 100%;
+  margin: 0; }
+  header h1 {
+    margin: 0; }
+  header li {
+    list-style: none; }
+
+li.octocat {
+  border: 1px solid #233d29;
+  width: 200px; }
+  li.octocat .cats {
+    width: 75%; }
+
+.author {
+  width: 20%; }
+
+ul {
+  list-style: none; }
+
+/*# sourceMappingURL=styles.css.map */
