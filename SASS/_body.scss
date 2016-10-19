@@ -1,0 +1,25 @@
+ul li {
+  margin: auto, 0;
+
+}
+
+li.octocat {
+    border: 1px solid $catBorder;
+    border-bottom: 0;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+
+    .cats {
+        width: 75%;
+    }
+}
+
+ul {
+    list-style: none;
+}
+
+div.head {
+  margin: auto, 0;
+}

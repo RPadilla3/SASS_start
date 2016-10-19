@@ -1,0 +1,16 @@
+.octonumber {
+    float: left;
+    margin: 30px 0;
+    color: $catNumberColor;
+    margin-bottom: 0;
+}
+
+cite {
+    float: right;
+    display: block;
+    border-top: 1px solid $catBorder;
+
+    .author {
+        width: $authorAvatar;
+    }
+}
