@@ -1,5 +1,19 @@
-@media screen and (max-width: 405px) {
-  display: inline-block;
-  float: right;
+@media screen and (min-width: 350px) {
+  li .octocat {
+    float: right;
+  }
 
+
+}
+
+@media screen and (min-width: 700px) {
+  li .octocat {
+    float: left;
+  }
+}
+
+@media screen and (min-width: 1050) {
+  li .octocat {
+    float: left;
+  }
 }
